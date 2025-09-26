@@ -1,18 +1,14 @@
-# <p align="center"><img align="center" width="80" src="./assets/logo-white.png"/> VoCo</p>
-<h2 align="center">Advanced Vocational Training Application 📱</h2>
-<hr>
-<h2 align="center">TEAM VISION : Winner 🏆 Of Smart India Hackathon 2022 (SIH 2022) 🌟</h2>
-<img src="screenshots/winner.JPG"  width="100%"/>
+
 <h2 align="center">COMPLETE DESCRIPTION</h2>
 
-### PS ID : RK774
 
-### Team ID : 23641
 
-### PS Title :
+
+
+### Title :
 Software for Vocational Training for persons with visual impairment
 
-### PS Description :
+### Description :
 <b>Background:</b> A web/app based solution required for vocational training for persons with visual impairment. It would have greater accessibility support and a better user interface.
 
 <b>Situation:</b> Currently no such software is available for persons with visual impairment. Further because of their mobility, it is difficult for them to get offline vocational training. Such software will enable them to get suitable vocational training in the area of their interest and will enable them to become self dependent.
@@ -62,7 +58,6 @@ We have implemented these features:
 ### Important URLS :
 ⭐️ <b>VoCo.apk :</b> [Click Here to download our app](https://drive.google.com/file/d/1G2OAgv496ZIgfTvQDB9stnZZdOtdA90W/view?usp=sharing)
 
-⭐️ <b>Main PPT :</b> [Click Here to View](https://www.canva.com/design/DAFKY0ISCIc/Dc9_AccjIlpIO0fpXs7zAg/edit)
 
 ⭐️ <b>Video : Understanding VoCo</b>
 
@@ -72,49 +67,23 @@ We have implemented these features:
 
 [![Watch the video](https://img.youtube.com/vi/JdDHJDz9RwU/hqdefault.jpg)](https://youtu.be/JdDHJDz9RwU)
 
-⭐️ <b>Research Proposal :</b> [Click Here to View](https://drive.google.com/file/d/1IWLqan4KK0uA738anxIMGWorU3y1yo0H/view?usp=sharing)
 
-⭐️ <b>Initial Basic Blue Print :</b> [Click Here to View](https://drive.google.com/file/d/1DbnphCEYUreNn5E48bvN6N0b3pgw_8ib/view?usp=sharing)
 
-⭐️ <b>Extra : You can also watch our fun VLOG 😅</b>
 
-[![Watch the video](https://img.youtube.com/vi/XQbKl_6FldM/mqdefault.jpg)](https://youtu.be/XQbKl_6FldM)
-
----
 
 ## Project Created & Maintained By
 
-## :heart: Team Vision
-1. [Krishna Raj](https://github.com/krishna-raz)
-2. [Ujjwal Raj](https://github.com/uzibytes)
-3. [Rajnish Puri](https://github.com/RajnishPuri)
-4. [Prashant Kumar](https://github.com/PkThunderBolt)
-5. [Shubham Kumar](https://github.com/ItsWhiteDevil)
-6. [Aradhana Kumari](https://github.com/aradhana2618)
+## :heart: Team VoCo
+1. [K.Aparna]
+2. [D.Srinija]
+3. [K.Pallavi]
+4. [Rama lakshmi]
 
-### Hire Us
-<a href="https://www.linkedin.com/in/ujjwal-raj-b2545a213/"> <img src="https://img.shields.io/badge/ujjwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/iamkrishnaraj/"> <img src="https://img.shields.io/badge/krishna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/rajnish-puri-804b11209/"> <img src="https://img.shields.io/badge/rajnish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/prashant-kumar-426775213/"> <img src="https://img.shields.io/badge/prashant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/shubham-kumar-0b44071b8/"> <img src="https://img.shields.io/badge/shubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/aradhana-kumari-62b634218/"> <img src="https://img.shields.io/badge/aradhana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 
-### How-to-run
 
-- Clone this Repository.
-- Install Flutter in your local.
-- Open the cloned repository in VS Code
-- Enter command - `flutter clean` at first.
-- Then Enter Command - `flutter run` to start the application in your local emulator.
-- Or you can directly use our application on your android phone by downloading the apk [link](https://drive.google.com/file/d/1G2OAgv496ZIgfTvQDB9stnZZdOtdA90W/view?usp=sharing).
 
-## Support
-
-💙 If you like this project, give it a ⭐ and share it with friends!
-You are free to send us PRs and issues, We'd love to help and improve this.
 
 <h1 align="center">🙏 THANK YOU 🙏</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&color=67F7AD&lines=Best+Wishes+from+Team+Vision)
+
 
